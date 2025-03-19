@@ -1,4 +1,5 @@
 # FinWise
+A chatbot financial advisor with React frontend and a python backend.
 
 ## The Repo is entirely using langchain products for the whole project:
 - LangChain
