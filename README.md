@@ -8,4 +8,3 @@ A chatbot financial advisor with React frontend and a python backend.
 - LangServe
 
 ## Get SEC docs and embed them for better retreival.
-fgg
